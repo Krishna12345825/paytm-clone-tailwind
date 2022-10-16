@@ -10,14 +10,8 @@
 
 
 ![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img.png)
-
-
 ![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img2.png)
-
 ![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img3.png)
-
 ![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img4.png)
-
 ![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img5.png)
-
 ![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img6.png)
