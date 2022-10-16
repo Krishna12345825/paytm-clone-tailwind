@@ -9,7 +9,7 @@
 
 
 
-![image]()
+![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img.png)
 
 
 ![image]()
