@@ -20,4 +20,4 @@
 
 ![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img5.png)
 
-![image]()
+![image](https://github.com/Krishna12345825/paytm-clone-tailwind/blob/main/images/img6.png)
