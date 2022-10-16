@@ -2,7 +2,7 @@
 ![image](https://img.shields.io/badge/tailwind-paytm-blue)
 
 
-## Paytm website clone using tailwind CSS  [live Link](https://krishna-paytmclone.netlify.app/)
+## Paytm website clone using tailwind CSS  [live Link](https://shopifyclone-tailwin.netlify.app/)
 
 **Name:**   KRISHNA KUMAR YADAV
 
