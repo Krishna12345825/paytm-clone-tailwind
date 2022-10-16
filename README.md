@@ -4,7 +4,7 @@
 
 ## Paytm website clone using tailwind CSS  [live Link](https://krishna-paytmclone.netlify.app/)
 
-**Name: **   KRISHNA KUMAR YADAV
+**Name:**   KRISHNA KUMAR YADAV
 
 
 
